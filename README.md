@@ -1,4 +1,4 @@
-# My Python Projects Showcase
+# Python Projects Showcase
 
 Welcome to my Python Projects Showcase! This repository is a collection of diverse projects highlighting my proficiency in Python programming. Whether you're interested in data analysis, machine learning, or automation, you'll find a variety of projects here that demonstrate my skills in Python.
 
