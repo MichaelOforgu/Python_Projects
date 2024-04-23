@@ -14,4 +14,4 @@ Here's a brief overview of the projects included in this repository:
 
 ## Getting Started
 
-To explore the projects in this repository, simply navigate to the respective directories of each project. Each project folder contains its own README file with detailed instructions on how to set up and run the project locally.
+To explore the projects in this repository, simply navigate to the respective directories of each project.
